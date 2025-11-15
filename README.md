@@ -1,4 +1,4 @@
-# 📊 Sales Dashboard
+# 📊 Sales Dashboard by Sanyam Singh
 
 A **Power BI Sales Dashboard** that provides a comprehensive view of sales performance across different products, regions, and customers.  
 It helps users quickly analyze trends, identify key revenue drivers, and make data-driven business decisions.
